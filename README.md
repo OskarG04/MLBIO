@@ -17,10 +17,3 @@ Pour ouvrir le notebook :
 ```bash
 uv run jupyter lab notebook.ipynb
 ```
-
-## Références
-
-- Golub et al. (1999) : [10.1126/science.286.5439.531](https://doi.org/10.1126/science.286.5439.531).
-- Données WDBC, UCI : [10.24432/C5DW2B](https://doi.org/10.24432/C5DW2B).
-
-Code préparé avec l'assistance de ChatGPT.
